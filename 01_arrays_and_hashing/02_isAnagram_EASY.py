@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         s_chars = {}
